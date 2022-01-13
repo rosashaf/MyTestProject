@@ -42,6 +42,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <constants>Constant.Руководители</constants>
-  <dataProcessors>DataProcessor.КонсольЗапросов</dataProcessors>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.РасходнаНакладная</documents>
 </mdclass:Configuration>
