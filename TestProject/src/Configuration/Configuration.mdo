@@ -42,5 +42,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.Руководители</constants>
   <dataProcessors>DataProcessor.КонсольЗапросов</dataProcessors>
 </mdclass:Configuration>
