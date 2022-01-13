@@ -42,4 +42,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.РасходнаНакладная</documents>
 </mdclass:Configuration>
