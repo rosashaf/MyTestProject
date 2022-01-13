@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7442d0e4-4d94-427c-8253-4aaeacb1b06d">
-  <name>Конфигурация</name>
+  <name>Конфигурация51</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конфигуация Тестовая задача 5-1</value>
+  </synonym>
+  <comment>Под задание 5-1</comment>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="8f982d60-5b37-4164-8966-ab9caca693be"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="e60effd6-fd8e-4fa6-868e-9c28a0bc8c5a"/>
   <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="0c5e5f96-4664-476e-af78-00a560a8865f"/>
@@ -12,6 +17,8 @@
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
+  <vendor>Rosa</vendor>
+  <version>1</version>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
